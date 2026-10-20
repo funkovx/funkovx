@@ -6,18 +6,18 @@
 
 <p align="center">
   DevOps & systems engineer in the making, studying network and systems administration at Sirius University.<br>
-  I like owning the whole path: servers, networks, CI/CD and the apps that run on top.
+  I like owning the whole path: servers, networks, deployment and the apps that run on top.
 </p>
 
 ---
 
 ### ✦ About me
 
-- ⚙️ **DevOps:** Docker, CI/CD with GitHub Actions and Jenkins, Ansible, Kubernetes manifests, systemd services behind nginx
+- ⚙️ **DevOps:** Docker and Compose, Ansible, Linux services with systemd behind nginx, automated builds and deployments
 - 🖥️ **Infrastructure:** a Proxmox homelab with LXC containers and VMs, a public VPS entry point, Tailscale and a dozen self-hosted services
 - 🌐 **Networking:** OSPF, BGP, VPN tunnels, DNS, traffic analysis with Wireshark
 - 🛡️ **Security:** CTF player, **2nd place at AlfaCTF 2026**
-- 🍎 **Apps:** native macOS apps in SwiftUI, Python backends with FastAPI
+- 🍎 **Apps:** Python backends with FastAPI and my own native macOS apps (Northkov, Wallsy)
 - 🤖 **AI agents:** RAG pipelines, Langflow, Claude integrations
 
 ---
