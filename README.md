@@ -66,6 +66,6 @@ I like building things I use every day: my music streams from my own Navidrome s
 ---
 
 <p align="center">
-  <a href="https://t.me/funkovx"><img src="https://img.shields.io/badge/Telegram-@funkovx-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:qfunkov@gmail.com"><img src="https://img.shields.io/badge/Email-qfunkov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/funkovx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:qfunkov@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
