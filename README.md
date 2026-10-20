@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="README.ru.md"><img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-555?style=flat-square" alt="Русская версия"></a>
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="funkovx" width="100%">
 </p>
 
@@ -17,6 +21,7 @@ I like building things I use every day: my music streams from my own Navidrome s
 
 - **DevOps:** Docker, Compose, Ansible, systemd, nginx
 - **Infrastructure:** Proxmox homelab (LXC, VMs), VPS, Tailscale, self-hosted services
+- **Monitoring:** Prometheus, Grafana
 - **Networking:** OSPF, BGP, VPN, DNS, Wireshark
 - **Security:** CTF (web, forensics, OSINT)
 - **Apps:** FastAPI backends, native macOS apps (Northkov, Wallsy)
@@ -49,6 +54,8 @@ I like building things I use every day: my music streams from my own Navidrome s
 **Infrastructure & Networking**<br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white">
 <img src="https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=flat-square&logo=qemu&logoColor=white">
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
