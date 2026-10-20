@@ -13,6 +13,8 @@
 
 ### ✦ About me
 
+I like building things I use every day: my music streams from my own Navidrome server to a macOS client I wrote, and my class schedule comes from a parser I host myself. Daily drivers are macOS and Arch with Hyprland. Off the keyboard: LARP and a lot of alt-rock and hip-hop.
+
 - **DevOps:** Docker, Compose, Ansible, systemd, nginx
 - **Infrastructure:** Proxmox homelab (LXC, VMs), VPS, Tailscale, self-hosted services
 - **Networking:** OSPF, BGP, VPN, DNS, Wireshark
@@ -51,7 +53,7 @@
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
 
-<sub>Also worked with: Swift · TypeScript · React · Flask · Redis · Kubernetes · GitHub Actions · Jenkins · Lua · C#</sub>
+<sub>Also worked with in my projects: Swift / SwiftUI · TypeScript / React · Flask · Redis · Kubernetes · GitHub Actions · Jenkins · Lua (Hyprland configs, a bit of Roblox) · C# (a few Unity mechanics)</sub>
 
 ---
 
