@@ -18,9 +18,18 @@ I like building things I use every day: my music streams from my own Navidrome s
 - **DevOps:** Docker, Compose, Ansible, systemd, nginx
 - **Infrastructure:** Proxmox homelab (LXC, VMs), VPS, Tailscale, self-hosted services
 - **Networking:** OSPF, BGP, VPN, DNS, Wireshark
-- **Security:** CTF, 2nd place at AlfaCTF 2026
+- **Security:** CTF (web, forensics, OSINT)
 - **Apps:** FastAPI backends, native macOS apps (Northkov, Wallsy)
 - **AI agents:** RAG, Langflow, Claude integrations
+
+---
+
+### ✦ Experience
+
+- **AlfaCTF 2026** · 2nd place — web, forensics, OSINT
+- **Alfa Vibecoding Hackathon** · 2026 — PII masking service for LLM requests: structured data detection and the final code audit
+- **RZD OCRV Hackathon 4.0** · 2026 — Driver Assistant: app design and the final pitch
+- **RZD OCRV Hackathon 3.0** · 2025 — Sirius Transport: 2GIS API integration and backend
 
 ---
 
