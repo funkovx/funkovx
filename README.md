@@ -13,7 +13,7 @@
 
 ### ✦ About me
 
-I like building things I use every day: my music streams from my own Navidrome server to a macOS client I wrote, and my class schedule comes from a parser I host myself. Daily drivers are macOS and Arch with Hyprland. Off the keyboard: LARP and a lot of alt-rock and hip-hop.
+I like building things I use every day: my music streams from my own Navidrome server to a macOS client I wrote, and my class schedule comes from a parser I host myself. Daily drivers are macOS and Arch with Hyprland.
 
 - **DevOps:** Docker, Compose, Ansible, systemd, nginx
 - **Infrastructure:** Proxmox homelab (LXC, VMs), VPS, Tailscale, self-hosted services
